@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|d:\\3katman_digital_mvc_project\\3katmandigital_api\\entitiy\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|solutionrelative:entitiy\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|d:\\3katman_digital_mvc_project\\3katmandigital_api\\entitiy\\models\\projectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|solutionrelative:entitiy\\models\\projectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|d:\\3katman_digital_mvc_project\\3katmandigital_api\\entitiy\\models\\projectimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|solutionrelative:entitiy\\models\\projectimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|d:\\3katman_digital_mvc_project\\3katmandigital_api\\entitiy\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|solutionrelative:entitiy\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|d:\\3katman_digital_mvc_project\\3katmandigital_api\\entitiy\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|solutionrelative:entitiy\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|d:\\3katman_digital_mvc_project\\3katmandigital_api\\entitiy\\configration\\categoryconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|solutionrelative:entitiy\\configration\\categoryconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Entitiy\\Models\\Service.cs",
+              "ToolTip": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Models\\Service.cs",
+              "RelativeToolTip": "Entitiy\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:20:07.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectRequest.cs",
+              "DocumentMoniker": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Models\\ProjectRequest.cs",
+              "RelativeDocumentMoniker": "Entitiy\\Models\\ProjectRequest.cs",
+              "ToolTip": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Models\\ProjectRequest.cs",
+              "RelativeToolTip": "Entitiy\\Models\\ProjectRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:20:00.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectImages.cs",
+              "DocumentMoniker": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Models\\ProjectImages.cs",
+              "RelativeDocumentMoniker": "Entitiy\\Models\\ProjectImages.cs",
+              "ToolTip": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Models\\ProjectImages.cs",
+              "RelativeToolTip": "Entitiy\\Models\\ProjectImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:19:38.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Entitiy\\Models\\Project.cs",
+              "ToolTip": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Models\\Project.cs",
+              "RelativeToolTip": "Entitiy\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:19:21.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Entitiy\\Models\\Category.cs",
+              "ToolTip": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Models\\Category.cs",
+              "RelativeToolTip": "Entitiy\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:19:06.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryConfigration.cs",
+              "DocumentMoniker": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Configration\\CategoryConfigration.cs",
+              "RelativeDocumentMoniker": "Entitiy\\Configration\\CategoryConfigration.cs",
+              "ToolTip": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Configration\\CategoryConfigration.cs",
+              "RelativeToolTip": "Entitiy\\Configration\\CategoryConfigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T00:02:41.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
