@@ -5205,23 +5205,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\myusu\\.nuget\\packages\\": {},
+    "C:\\Users\\muham\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\3KatmanDigital_API\\3KatmanDigital_API.csproj",
+      "projectUniqueName": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\3KatmanDigital_API\\3KatmanDigital_API.csproj",
       "projectName": "3KatmanDigital_API",
-      "projectPath": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\3KatmanDigital_API\\3KatmanDigital_API.csproj",
-      "packagesPath": "C:\\Users\\myusu\\.nuget\\packages\\",
-      "outputPath": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\3KatmanDigital_API\\obj\\",
+      "projectPath": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\3KatmanDigital_API\\3KatmanDigital_API.csproj",
+      "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\3KatmanDigital_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\myusu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\muham\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5236,8 +5236,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Entitiy.csproj": {
-              "projectPath": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Entitiy.csproj"
+            "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\Entitiy\\Entitiy.csproj": {
+              "projectPath": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\Entitiy\\Entitiy.csproj"
             }
           }
         }
@@ -5250,9 +5250,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -5312,7 +5312,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

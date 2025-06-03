@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\",
+  "WorkspaceRootPath": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|d:\\3katman_digital_mvc_project\\3katmandigital_api\\entitiy\\configration\\categoryconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA97F96F-D8E3-480F-8798-B146793EC26D}|3KatmanDigital_API\\3KatmanDigital_API.csproj|c:\\users\\muham\\onedrive\\desktop\\3katmanapi\\3katmandigital_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA97F96F-D8E3-480F-8798-B146793EC26D}|3KatmanDigital_API\\3KatmanDigital_API.csproj|solutionrelative:3katmandigital_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA97F96F-D8E3-480F-8798-B146793EC26D}|3KatmanDigital_API\\3KatmanDigital_API.csproj|c:\\users\\muham\\onedrive\\desktop\\3katmanapi\\3katmandigital_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA97F96F-D8E3-480F-8798-B146793EC26D}|3KatmanDigital_API\\3KatmanDigital_API.csproj|solutionrelative:3katmandigital_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|c:\\users\\muham\\onedrive\\desktop\\3katmanapi\\entitiy\\configration\\categoryconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F02566EB-CFF9-4976-A050-08EFE82BFBBB}|Entitiy\\Entitiy.csproj|solutionrelative:entitiy\\configration\\categoryconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA97F96F-D8E3-480F-8798-B146793EC26D}|3KatmanDigital_API\\3KatmanDigital_API.csproj|c:\\users\\muham\\onedrive\\desktop\\3katmanapi\\3katmandigital_api\\3katmandigital_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA97F96F-D8E3-480F-8798-B146793EC26D}|3KatmanDigital_API\\3KatmanDigital_API.csproj|solutionrelative:3katmandigital_api\\3katmandigital_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,11 +38,50 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\3KatmanDigital_API\\appsettings.json",
+              "RelativeDocumentMoniker": "3KatmanDigital_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\3KatmanDigital_API\\appsettings.json",
+              "RelativeToolTip": "3KatmanDigital_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-03T13:59:53.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3KatmanDigital_API",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\3KatmanDigital_API\\3KatmanDigital_API.csproj",
+              "RelativeDocumentMoniker": "3KatmanDigital_API\\3KatmanDigital_API.csproj",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\3KatmanDigital_API\\3KatmanDigital_API.csproj",
+              "RelativeToolTip": "3KatmanDigital_API\\3KatmanDigital_API.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T13:58:58.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\3KatmanDigital_API\\Program.cs",
+              "RelativeDocumentMoniker": "3KatmanDigital_API\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\3KatmanDigital_API\\Program.cs",
+              "RelativeToolTip": "3KatmanDigital_API\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:22:14.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CategoryConfigration.cs",
-              "DocumentMoniker": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Configration\\CategoryConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\Entitiy\\Configration\\CategoryConfigration.cs",
               "RelativeDocumentMoniker": "Entitiy\\Configration\\CategoryConfigration.cs",
-              "ToolTip": "D:\\3katman_digital_mvc_project\\3KatmanDigital_API\\Entitiy\\Configration\\CategoryConfigration.cs",
+              "ToolTip": "C:\\Users\\muham\\OneDrive\\Desktop\\3KatmanAPI\\Entitiy\\Configration\\CategoryConfigration.cs",
               "RelativeToolTip": "Entitiy\\Configration\\CategoryConfigration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
